@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-Recipe is project that enables shortening / assigning aliases to url making redirection more cleaner. It uses a whole API structure using Django Rest Framework to make necessary API calls.
+Shortcode is project that enables shortening / assigning aliases to url making redirection more cleaner. It uses a whole API structure using Django Rest Framework to make necessary API calls.
 
 ### **Features**
 
